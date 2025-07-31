@@ -1,5 +1,4 @@
-# DeeplearningAssign
-# Deep Learning Assignment – Fashion MNIST Classifier
+# Fashion MNIST Classifier
 
 This project is a deep learning assignment focused on building and evaluating neural networks using the Fashion MNIST dataset. The dataset includes grayscale images of clothing items, with the goal of classifying them into one of 10 categories.
 
