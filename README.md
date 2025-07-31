@@ -56,4 +56,32 @@ Fashion MNIST is a popular benchmark dataset for image classification. It contai
 - Neural network architecture design
 - Image normalization and reshaping
 - Use of dropout and convolution layers
-- Model evaluation and tunin
+- Model evaluation and tuning
+
+## How to Run
+
+1. Open the Jupyter notebook `DeepLearning_Assignment_Raghda.ipynb`
+2. Run all cells in order
+3. The notebook will:
+   - Load the dataset
+   - Train different models
+   - Show training curves
+   - Evaluate and compare model performance
+
+## Sample Results
+
+| Model             | Test Accuracy |
+|------------------|---------------|
+| Dense NN         | ~86–88%       |
+| With Dropout     | ~87–89%       |
+| CNN              | ~91–93%       |
+
+> Actual results may vary depending on training configuration.
+
+## Author
+
+Raghda Haikal  
+
+
+---
+
